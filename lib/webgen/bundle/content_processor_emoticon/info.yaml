@@ -1,0 +1,12 @@
+author: Thomas Leitner <t_leitner@gmx.at>
+summary: Adds image emoticon support to webgen
+description: |
+  This bundle adds a content processor for converting text emoticons into image
+  emoticons. Several image emoticon themes are also provided out of the box.
+version: 1.0.0
+license: Apache License, Version 2.0
+homepage: http://github.com/gettalong/webgen-content_processor_emoticon-bundle
+
+extensions:
+  content_processor.emoticon:
+    summary: Converts text emoticons into image emoticons
