@@ -4,7 +4,7 @@ description: |
   This bundle adds a content processor for converting text emoticons into image
   emoticons. Several image emoticon themes are also provided out of the box.
 version: 1.0.0
-license: Apache License, Version 2.0
+license: MIT
 homepage: http://github.com/gettalong/webgen-content_processor_emoticon-bundle
 autoload: true
 
