@@ -18,7 +18,7 @@ spec = Gem::Specification.new do |s|
   s.summary = INFOS['summary']
   s.description = INFOS['description']
   s.license = INFOS['license']
-  s.files = FileList.new(['lib/**/*', '**/.empty', 'README.md', 'VERSION'])
+  s.files = FileList.new(['lib/**/*', '**/.empty', 'README.md', 'VERSION', 'ChangeLog'])
   s.require_path = 'lib'
   s.has_rdoc = false
 
