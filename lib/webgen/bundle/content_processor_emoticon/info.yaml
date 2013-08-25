@@ -11,3 +11,13 @@ autoload: true
 extensions:
   content_processor.emoticon:
     summary: Converts text emoticons into image emoticons
+
+options:
+  content_processor.emoticon.theme:
+    summary: |
+      Specifies the emoticon theme that should be used
+    syntax: |
+      `STRING` or null where `STRING` is the name of image emoticon theme or `unicode` (for text emoticons)
+    example:
+      config: |
+        content_processor.emoticon.theme: 'unicode'
