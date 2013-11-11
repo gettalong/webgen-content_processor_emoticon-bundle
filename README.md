@@ -4,7 +4,7 @@ This is a [webgen] extension bundle that provides a content processor
 named `emoticon` for converting text emoticons to image emoticons.
 Furthermore, some emoticon themes are also provided out of the box.
 
-[webgen]: http://webgen.rubyforge.org
+[webgen]: http://webgen.gettalong.org
 
 
 # Usage
